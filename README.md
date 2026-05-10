@@ -12,15 +12,3 @@ The goal is to move beyond just reading reports. I break down complex vendor rep
 
 ---
 
-## 📁 Repository Structure
-The repository is organized by **Vendor/Company** name to make it easy to find historical data:
-
-```text
-/
-├── 🏢 Companies/           # Categorized by Security Vendors
-│   ├── CrowdStrike/        # Analysis of CrowdStrike reports
-│   ├── Mandiant/           # Analysis of Mandiant/Google Cloud reports
-│   └── Palo-Alto-Unit42/   # Analysis of Unit 42 research
-├── 📝 Templates/           # Standardized markdown templates for analysis
-├── 🖼️ Assets/              # Infographics, diagrams, and visual aids
-└── README.md               # Main index and navigation
