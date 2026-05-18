@@ -1,1 +1,1 @@
-Ye cloud misconfigurations aur infrastructure attacks par focus karte hain.
+They focus on cloud misconfigurations and infrastructure-based attacks.
