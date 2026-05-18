@@ -1,1 +1,1 @@
-Ye companies apne hi cloud infrastructure (AWS, Azure, Google Cloud) ki security reports aur threats publish karti hain.
+These companies publish security reports and threat intelligence related to their own cloud infrastructure platforms such as AWS, Azure, and Google Cloud.
