@@ -1,1 +1,1 @@
-Cloud infrastructure monitoring ke saath-saath ye security trends bhi share karte hain.
+Alongside cloud infrastructure monitoring, they also share important security trends.
