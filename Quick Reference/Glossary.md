@@ -7,89 +7,90 @@ Ek sophisticated cyber attack jisme attacker kisi network mein unauthorized acce
 
 **Attribution**
 Cyber attack ya threat actor ke asli source ya origin ko identify karne ki process।
+
 **Attack Surface**
 System ke saare possible entry points ka total area jahan se koi unauthorized user access lene ki koshish kar sakta hai।
 
 ## C
 
 **CVE (Common Vulnerabilities and Exposures)**
-A standardized identifier for publicly known information security vulnerabilities.
+Publicly known information security vulnerabilities ke liye standardized identifier।
 
 **C2/C&C (Command and Control)**
-Servers used by attackers to communicate with and control compromised systems.
+Servers jo attackers compromised systems ke saath communicate aur control karne ke liye use karte hain।
 
 **Cyber Kill Chain**
-A framework for identifying and preventing cyber intrusions, developed by Lockheed Martin.
+Cyber intrusions ko identify aur prevent karne ke liye ek framework, jo Lockheed Martin ne develop kiya।
 
 ## D
 
 **DNS (Domain Name System)**
-Internet protocol for translating domain names to IP addresses.
+Internet protocol jisse domain names ko IP addresses mein translate kiya jata hai।
 
 **DDoS (Distributed Denial of Service)**
-Cyber attack using multiple sources to flood a target with traffic.
+Cyber attack jisme multiple sources se target ko traffic se flood kiya jata hai।
 
 ## E
 
 **Exploit**
-A method or code used to take advantage of a vulnerability.
+Ek method ya code jo vulnerability ke advantage lene ke liye use hota hai।
 
 **EASM (External Attack Surface Management)**
-Technology and practices for discovering and managing external security risks.
+Technology aur practices jo external security risks ko discover aur manage karte hain।
 
 ## I
 
 **IoC (Indicator of Compromise)**
-Artifacts that indicate a system may have been breached (IP, domain, file hash, etc.).
+Artifacts jo indicate karte hain ke system breach ho sakta hai (IP, domain, file hash, etc.)।
 
 **Intelligence-Driven Incident Response**
-Using threat intelligence to improve response to security incidents.
+Threat intelligence ka use karke security incidents ke response ko improve karna।
 
 ## L
 
 **Lateral Movement**
-Technique for an attacker to move deeper into a network after initial access.
+Attacker ke liye technique jo initial access ke baad network mein deeper move karne ke liye।
 
 ## M
 
 **Malware**
-Malicious software designed to harm or exploit a system.
+Malicious software jo system ko harm ya exploit karne ke liye design kiya gaya ho।
 
 **MITRE ATT&CK**
-A globally-accessible knowledge base of adversary tactics and techniques.
+Ek globally-accessible knowledge base jo adversary tactics aur techniques ke bare mein hai।
 
 ## P
 
 **Persistence**
-An attacker's techniques to maintain access to a compromised system.
+Attacker ke techniques jo compromised system mein access maintain karne ke liye।
 
 **Phishing**
-Social engineering attack using fraudulent communications to trick users.
+Social engineering attack jisme fraudulent communications se users ko trick kiya jata hai।
 
 ## S
 
 **Supply Chain Attack**
-Attack targeting vulnerabilities in a supplier's systems to compromise customers.
+Attack jo supplier ke systems mein vulnerabilities ko target karke customers ko compromise karne ke liye।
 
 **SIGMA**
-Generic and open signature format for detection rules.
+Generic aur open signature format jo detection rules ke liye use hota hai।
 
 ## T
 
 **TTP (Tactics, Techniques, and Procedures)**
-The behavior patterns of threat actors.
+Threat actors ke behavior patterns।
 
 **Threat Actor**
-An individual, group, or organization engaged in cyber attacks.
+Ek individual, group, ya organization jo cyber attacks mein engage hai।
 
 **Threat Intelligence**
-Evidence-based knowledge about cyber threats and threat actors.
+Evidence-based knowledge cyber threats aur threat actors ke bare mein।
 
 ## Z
 
 **Zero-Day**
-A previously unknown vulnerability being exploited before a patch is available.
+Ek previously unknown vulnerability jo patch available hone se pehle exploit ho rahi ho।
 
 ---
 
-**For more information, visit:** [MITRE ATT&CK](https://attack.mitre.org/)
+**Aur jankari ke liye, visit karein:** [MITRE ATT&CK](https://attack.mitre.org/)
