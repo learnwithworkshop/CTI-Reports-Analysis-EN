@@ -3,13 +3,12 @@
 ## A
 
 **APT (Advanced Persistent Threat)**
-A sophisticated cyber attack where an attacker gains and maintains unauthorized access to a network for an extended period.
+Ek sophisticated cyber attack jisme attacker kisi network mein unauthorized access gain karta hai aur lambe time tak hidden rehkar access maintain karta hai।
 
 **Attribution**
-The process of determining the origin or source of a cyber attack or threat actor.
-
+Cyber attack ya threat actor ke asli source ya origin ko identify karne ki process।
 **Attack Surface**
-The sum of all possible points where an unauthorized user could try to access a system.
+System ke saare possible entry points ka total area jahan se koi unauthorized user access lene ki koshish kar sakta hai।
 
 ## C
 
