@@ -3,94 +3,94 @@
 ## A
 
 **APT (Advanced Persistent Threat)**
-Ek sophisticated cyber attack jisme attacker kisi network mein unauthorized access gain karta hai aur lambe time tak hidden rehkar access maintain karta hai।
+A sophisticated cyber attack where an attacker gains unauthorized access to a network and maintains that access over an extended period while remaining hidden.
 
 **Attribution**
-Cyber attack ya threat actor ke asli source ya origin ko identify karne ki process।
+The process of identifying the true source or origin of a cyber attack or threat actor.
 
 **Attack Surface**
-System ke saare possible entry points ka total area jahan se koi unauthorized user access lene ki koshish kar sakta hai।
+The total area of all possible entry points in a system where an unauthorized user could attempt to gain access.
 
 ## C
 
 **CVE (Common Vulnerabilities and Exposures)**
-Publicly known information security vulnerabilities ke liye standardized identifier।
+A standardized identifier for publicly known information security vulnerabilities.
 
 **C2/C&C (Command and Control)**
-Servers jo attackers compromised systems ke saath communicate aur control karne ke liye use karte hain।
+Servers that attackers use to communicate with and control compromised systems.
 
 **Cyber Kill Chain**
-Cyber intrusions ko identify aur prevent karne ke liye ek framework, jo Lockheed Martin ne develop kiya।
+A framework developed by Lockheed Martin to identify and prevent cyber intrusions.
 
 ## D
 
 **DNS (Domain Name System)**
-Internet protocol jisse domain names ko IP addresses mein translate kiya jata hai।
+An internet protocol that translates domain names into IP addresses.
 
 **DDoS (Distributed Denial of Service)**
-Cyber attack jisme multiple sources se target ko traffic se flood kiya jata hai।
+A cyber attack in which multiple sources flood a target with traffic to disrupt service.
 
 ## E
 
 **Exploit**
-Ek method ya code jo vulnerability ke advantage lene ke liye use hota hai।
+A method or code used to take advantage of a vulnerability in a system.
 
 **EASM (External Attack Surface Management)**
-Technology aur practices jo external security risks ko discover aur manage karte hain।
+Technology and practices that discover and manage external security risks.
 
 ## I
 
 **IoC (Indicator of Compromise)**
-Artifacts jo indicate karte hain ke system breach ho sakta hai (IP, domain, file hash, etc.)।
+Artifacts that indicate a system may have been breached (such as IP addresses, domains, file hashes, etc.).
 
 **Intelligence-Driven Incident Response**
-Threat intelligence ka use karke security incidents ke response ko improve karna।
+Using threat intelligence to improve the response to security incidents.
 
 ## L
 
 **Lateral Movement**
-Attacker ke liye technique jo initial access ke baad network mein deeper move karne ke liye।
+A technique used by attackers to move deeper within a network after gaining initial access.
 
 ## M
 
 **Malware**
-Malicious software jo system ko harm ya exploit karne ke liye design kiya gaya ho।
+Malicious software designed to harm or exploit a system.
 
 **MITRE ATT&CK**
-Ek globally-accessible knowledge base jo adversary tactics aur techniques ke bare mein hai।
+A globally-accessible knowledge base containing information about adversary tactics and techniques.
 
 ## P
 
 **Persistence**
-Attacker ke techniques jo compromised system mein access maintain karne ke liye।
+Techniques used by attackers to maintain access to a compromised system.
 
 **Phishing**
-Social engineering attack jisme fraudulent communications se users ko trick kiya jata hai।
+A social engineering attack in which fraudulent communications are used to trick users.
 
 ## S
 
 **Supply Chain Attack**
-Attack jo supplier ke systems mein vulnerabilities ko target karke customers ko compromise karne ke liye।
+An attack that targets vulnerabilities in supplier systems to compromise customers.
 
 **SIGMA**
-Generic aur open signature format jo detection rules ke liye use hota hai।
+A generic and open signature format used for detection rules.
 
 ## T
 
 **TTP (Tactics, Techniques, and Procedures)**
-Threat actors ke behavior patterns।
+The behavior patterns of threat actors.
 
 **Threat Actor**
-Ek individual, group, ya organization jo cyber attacks mein engage hai।
+An individual, group, or organization engaged in cyber attacks.
 
 **Threat Intelligence**
-Evidence-based knowledge cyber threats aur threat actors ke bare mein।
+Evidence-based knowledge about cyber threats and threat actors.
 
 ## Z
 
 **Zero-Day**
-Ek previously unknown vulnerability jo patch available hone se pehle exploit ho rahi ho।
+A previously unknown vulnerability that is being exploited before a patch is available.
 
 ---
 
-**Aur jankari ke liye, visit karein:** [MITRE ATT&CK](https://attack.mitre.org/)
+**For more information, visit:** [MITRE ATT&CK](https://attack.mitre.org/)
