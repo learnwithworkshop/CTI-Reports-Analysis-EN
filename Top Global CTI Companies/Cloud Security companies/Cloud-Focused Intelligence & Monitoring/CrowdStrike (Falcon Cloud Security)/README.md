@@ -1,1 +1,1 @@
-Inki reports mein cloud-conscious adversaries (jo hackers cloud ko target karte hain) ki detail hoti hai.
+Their reports contain detailed insights into cloud-conscious adversaries — attackers who specifically target cloud environments.
