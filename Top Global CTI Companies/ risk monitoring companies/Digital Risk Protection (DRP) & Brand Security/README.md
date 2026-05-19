@@ -1,1 +1,1 @@
-Ye companies dark web aur social media monitor karti hain taaki "Brand Impersonation" aur data leaks ko pakad sakein.
+These companies monitor the dark web and social media to detect brand impersonation and data leaks.
