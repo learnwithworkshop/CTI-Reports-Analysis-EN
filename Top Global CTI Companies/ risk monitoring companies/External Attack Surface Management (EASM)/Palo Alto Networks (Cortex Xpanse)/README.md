@@ -1,1 +1,1 @@
-Attack surface management ka ek leading tool hai.
+It is a leading tool for attack surface management.
