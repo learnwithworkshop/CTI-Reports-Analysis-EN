@@ -1,1 +1,1 @@
-Identity-based attacks aur cloud access security par focus.
+Focused on identity-based attacks and cloud access security.
