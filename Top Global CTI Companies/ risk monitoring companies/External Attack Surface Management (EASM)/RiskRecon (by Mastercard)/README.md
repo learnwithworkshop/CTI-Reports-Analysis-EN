@@ -1,1 +1,1 @@
-Ye third-party vendors ke risk ko monitor karti hain.
+They monitor risks associated with third-party vendors.
