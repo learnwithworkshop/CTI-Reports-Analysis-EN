@@ -1,1 +1,1 @@
-Inka focus social media monitoring aur phishing domain detection par hota hai.
+Their focus is on social media monitoring and phishing domain detection.
