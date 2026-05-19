@@ -1,1 +1,1 @@
-Ye track karti hain ki aapke partners ya vendors ki wajah se aapko toh khatra nahi hai.
+They track whether your organization is at risk because of vulnerabilities or security issues in your partners or vendors.
