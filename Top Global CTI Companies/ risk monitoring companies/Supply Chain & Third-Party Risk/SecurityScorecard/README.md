@@ -1,1 +1,1 @@
-Ye batati hain ki aapki vendor companies kitni secure hain.
+They assess and report how secure your vendor companies are.
