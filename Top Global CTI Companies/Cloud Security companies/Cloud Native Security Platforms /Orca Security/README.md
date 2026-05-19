@@ -1,1 +1,1 @@
-Cloud security state aur "State of the Cloud" reports ke liye mashhoor hain.
+They are well known for their cloud security insights and “State of the Cloud” reports.
