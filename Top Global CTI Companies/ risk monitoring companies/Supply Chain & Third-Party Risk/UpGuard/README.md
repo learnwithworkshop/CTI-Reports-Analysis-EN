@@ -1,1 +1,1 @@
-Data breaches aur vendor risk monitoring ke liye.
+Used for data breach detection and vendor risk monitoring.
