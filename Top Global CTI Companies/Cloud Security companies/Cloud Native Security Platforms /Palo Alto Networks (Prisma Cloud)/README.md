@@ -1,1 +1,1 @@
-Inki "Unit 42" team cloud-specific threat intelligence provide karti hai.
+Their “Unit 42” team provides cloud-specific threat intelligence.
