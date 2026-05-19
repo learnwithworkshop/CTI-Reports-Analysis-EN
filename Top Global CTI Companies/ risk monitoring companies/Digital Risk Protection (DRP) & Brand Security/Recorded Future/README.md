@@ -1,1 +1,1 @@
-Ye CTI ki duniya ka sabse bada naam hai. Inki reports "Threat Landscapes" par focus karti hain.
+It is one of the biggest names in the CTI world. Their reports mainly focus on threat landscapes.
