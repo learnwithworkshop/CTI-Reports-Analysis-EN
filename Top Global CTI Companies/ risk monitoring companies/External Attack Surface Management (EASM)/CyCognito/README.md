@@ -1,1 +1,1 @@
-Ye "Shadow IT" (aise assets jo company ko nahi pata ki internet par hain) ko dhundhne mein expert hain.
+They specialize in discovering “Shadow IT” — assets exposed on the internet that the company may not even be aware of.
