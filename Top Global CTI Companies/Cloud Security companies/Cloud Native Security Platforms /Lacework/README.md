@@ -1,1 +1,1 @@
-Inka focus cloud threat detection aur behavior analysis par hota hai.
+Their focus is on cloud threat detection and behavioral analysis.
