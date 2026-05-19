@@ -1,1 +1,1 @@
-Cloud security architecture aur "Zero Trust" patterns par research.
+Research focused on cloud security architecture and Zero Trust patterns.
