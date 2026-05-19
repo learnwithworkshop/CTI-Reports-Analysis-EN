@@ -1,1 +1,1 @@
-Ye companies ko "Security Ratings" deti hain (jaise CIBIL score hota hai), unki security posture ke basis par.
+These companies provide “Security Ratings” to organizations — similar to a CIBIL score — based on their overall security posture.
